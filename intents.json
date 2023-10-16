@@ -1,0 +1,167 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hey, Welcome to Hibretone :-)"
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+    },
+    {
+      "tag": "accelerator programme?",
+      "patterns": [
+        "What are the benefits of an accelerator programme?",
+        "Why are accelerated companies more likely to scale, raise more funding and achieve higher valuations than their peers?"
+      ],
+      "responses": [
+        "For starters, only the highest-potential businesses are likely to pass the rigorous admissions process required to enter top accelerator programmes. And once in attendance, they can receive all sorts of support, such as advice and mentoring from industry experts, product development workshops, legal counsel and even financial support."
+      ]
+    },
+    {
+      "tag": "UK’s top 10 accelerator programmes?",
+      "patterns": [
+        "Can you provide a list of the top 10 accelerator programs in the UK?",
+        "I'm interested in the top UK accelerator programs. Could you share the top 10?",
+        "What are the leading accelerator programs in the UK? Can you name the top 10?",
+        "Tell me about the top 10 accelerator programs in the UK.",
+        "Which accelerator programs are considered the best in the UK? Can you list the top 10?",
+        "I'd like to know more about the top accelerator programs in the UK. Could you give me the top 10?",
+        "What are the UK's top 10 accelerator programs?",
+        "Could you rank the top 10 accelerator programs in the UK for me?",
+        "I'm looking for information on the best accelerator programs in the UK. What are the top 10?",
+        "Who are the leaders in accelerator programs in the UK? Could you provide a list of the top 10?"
+      ],
+      "responses": [
+        "\"Entrepreneur Accelerator, Mayor's International Business Programme, Business Growth ,Programme\u200B, Accelerator Academy\", Upscale, Future Fifty, Entrepreneur First, PwC Scale, Programmes, ICURe, Bethnal Green Ventures\""
+      ]
+    },
+    {
+      "tag": "How do accelerators work?",
+      "patterns": [
+        "What is the operational process of accelerators?",
+        "Could you explain the inner workings of accelerator programs?",
+        "What's the mechanism behind how accelerators operate?",
+        "How do accelerators function in assisting startups?",
+        "Can you break down the process by which accelerators support startups?",
+        "What are the key components of accelerator programs and how do they interact?",
+        "Could you elaborate on the workings of startup accelerators?",
+        "What goes on behind the scenes of an accelerator program?",
+        "What is the modus operandi of accelerator initiatives for startups?"
+      ],
+      "responses": [
+        "A highly selective admissions process.\nA focus on cohorts or ‘classes’ of startups rather than individual companies.\nMentoring or other business training.\nIntense and time-limited support, usually lasting between three and 12 months.\nAccelerators may be funded by venture capital investors, public bodies or large corporates, depending on structure and objective. They also often tend to focus on supporting technology-based or digital startups.\n\nMost programmes encourage a high degree of peer-to-peer learning, so that founders can learn from others in similar circumstances. Mentoring from experienced entrepreneurs also plays a significant role in most programmes. The provision of funding (sometimes in exchange for equity), a workspace, facilitated networking and educational seminars/workshops are other common services.\n\nOne of the world’s first seed accelerator programmes – which is often credited as having sparked the wider accelerator movement – is the California-based Y Combinator. This program provides advice, access to networks and seed funding in exchange for an equity stake (typically $120k for 7 per cent). It has helped to develop more than 1,400 technology companies, including many now-familiar firms such as Dropbox, Airbnb, Coinbase and Reddit, and the combined worth of Y Combinator ‘graduates’ was estimated at a value of over $80 billion in June 2017. This accelerator has set the benchmark for others and has informed a lot of Nesta’s work in the field."
+      ]
+    },
+    {
+      "tag": "What Is a Startup Incubator/Accelerator?",
+      "patterns": [
+        "Could you define what a startup incubator or accelerator is?",
+        "What exactly does the term 'startup incubator/accelerator' mean?",
+        "Can you provide an explanation of startup incubators and accelerators?",
+        "How would you describe the concept of a startup incubator/accelerator?",
+        "What's the fundamental definition of a startup incubator or accelerator?",
+        "In simple terms, what do we mean by a startup incubator/accelerator?",
+        "Could you offer some insight into the role of a startup incubator/accelerator?",
+        "What is the purpose or function of a startup incubator/accelerator?",
+        "How do you characterize a startup incubator or accelerator program?",
+        "Can you break down the concept of a startup incubator/accelerator for me?"
+      ],
+      "responses": [
+        "There are some key similarities between a startup accelerator and an incubator. \n For example, they both support entrepreneurs with early-stage startups with training, mentoring and funding. \n\nThat being said, there are a few differences between them. \nIncubators focus on helping startups that are yet to develop a full product and business model. \nWhereas accelerators help startups who already have a basic product (like an MVP or POC) out in the market. They focus on helping startups scale and grow.\n\n"
+      ]
+    },
+    {
+      "tag": "How Startup Incubators & Accelerators Can Help You?",
+      "patterns": [
+        "What are the ways in which startup incubators and accelerators can assist entrepreneurs?",
+        "In what manner do startup incubators and accelerators provide support to startups?",
+        "What benefits can entrepreneurs gain from engaging with startup incubators and accelerators?",
+        "How do startup incubators and accelerators contribute to the success of early-stage businesses?",
+        "What resources and opportunities do startup incubators and accelerators offer to startups?",
+        "Could you outline the advantages of participating in a startup incubator or accelerator program?",
+        "What role do startup incubators and accelerators play in nurturing and growing new businesses?",
+        "How can entrepreneurs leverage the services and mentorship provided by startup incubators and accelerators?",
+        "What specific ways do startup incubators and accelerators support startup founders in achieving their goals?",
+        "What impact can engagement with startup incubators and accelerators have on the development of a new business?"
+      ],
+      "responses": [
+        "The first? Opportunities for funding.\nWhen you are accepted to join a cohort, usually, the accelerator or incubator will give you an injection of capital (at the cost of a percentage of equity).\nBut more than that, they will put you in contact with angel investors and VCs for further funding opportunities.\nThe second is the entrepreneurial community.\nWhen joining an incubator or accelerator program you get to meet not only the other entrepreneurs in your cohort. You also gain access to a network of alumni who have been where you were.\nThis allows you to quickly build a virtual Rolodex of professionals you can collaborate with.\nLast but not least is mentorship.\nThe best startup accelerators and incubators bring on mentors and advisors who’re at the top of their industries. They’ve already built successful startups and have valuable experience which can help you avoid several hurdles they’ve faced."
+      ]
+    },
+    {
+      "tag": "The Top 30 Startup Incubators & Accelerators in the UK?",
+      "patterns": [
+        "Which are the leading 30 startup incubators and accelerators in the UK?",
+        "Can you provide a list of the top 30 UK-based startup incubators and accelerators?",
+        "Who are the key players among the startup incubators and accelerators in the UK?",
+        "Which organizations are considered the top 30 startup incubators and accelerators in the United Kingdom?",
+        "I'm interested in knowing the most influential startup incubators and accelerators in the UK. Could you list them?",
+        "What are the 30 most notable startup incubators and accelerators operating in the UK?",
+        "Could you share information about the top-rated 30 startup incubators and accelerators in the UK?",
+        "Which startup incubators and accelerators are recognized as the best in the UK?",
+        "Who are the frontrunners among the startup incubators and accelerators in the United Kingdom?",
+        "I'm looking for information on the leading startup incubators and accelerators in the UK. Can you provide details on the top 30?"
+      ],
+      "responses": [
+        "1. Startupbootcamp\tLondon\t2010\t950\tSoftware, Financial Services, IT. /n2 Entrepreneur First\tLondon\t2011\t500+\tAI, Software, ML.\n/n3\tBethnal Green Ventures\tLondon\t2012\t192\tHealthcare, Software, Education. /n4\tTechstars London \tLondon\t2006\t119\tSoftware, AI, IT. /n5\tFounders Factory\tLondon\t2015\t114\tSoftware, AI, IT. /n 6\tLondon Co-Investment Fund\tLondon\t2014\t116\tSoftware, AI, Healthcare. /n7\tUpscale\tLondon\t2011\t108\tSoftware, SaaS, E-Commerce. /n8\tOutlier Ventures\tLondon\t2014\t78\tSoftware, Blockchain, IT./n9\tCollider\tLondon\t2012\t78\tAdvertising, Analytics, Software./n10\tPario Ventures\tLondon\t2010\t71\tAutomotive, Fintech, Software\n11\tPi Ventures\tLondon\t2015\t69\tSoftware, Real Estate, SaaS./n12\tCyLon\tLondon\t2015\t69\tCyber Security, Software./n13\tData Pitch\tLondon\t2017\t45\tSoftware, IT, Analytics./n14\tChivas Ventures\tLondon\t2014\t44\tFood & Beverage, Fashion, Manufacturing./n15\tTech Nation\tLondon \t2010\t38\tFintech, Financial Services, IT./n16\tBreed Reply\tLondon\t2014\t37\tSoftware, IT, IoT./n17\tiStarter\tLondon\t2012\t35\tE-Commerce, IT, Healthcare./n18\tL Marks\tLondon\t2012\t31\tSoftware, IT, Apps./n19\tInsurtech Gateway\tLondon\t2016\t30\tInsurance, Insurtech, Financial Services\n./n20\tIgnite\tNewcastle\t2011\t30\tSoftware, SaaS, Travel./n21\tCodeBase\tEdinburgh\t2014\t28\tSoftware, IT, Education./n22\tDigitalHealth.London\tLondon\t2016\t28\tHealthcare, Medical, IT./n23\tGeovation\tLondon\t2009\t27\tReal Estate, Software, ./n24\tOxygen Accelerator\tBirmingham\t2011\t25\tE-Commerce, Internet, Mobile./n25\tHuckletree\tLondon\t2014\t23\tE-Commerce, Software, Mobile Apps./n26\tCarbon Trust\tLondon\t2001\t22\tEnergy, Manufacturing, Chemical./n27\tStartup Campus\tLondon\t2015\t21\tSoftware, Healthcare, Mobile Apps./n28\tPotential VC\tLondon\t2015\t21\tE-Commerce, Apps, Software\n./n29\tChangeLabs\tLondon\t2018\t19\tElectric Vehicles, Education, E-Commerce"
+      ]
+    },
+      {
+      "tag": "The 5 Best Startup Incubators Worldwide and How They Can Help You?",
+      "patterns": [
+        "What are the top 5 global startup incubators, and how can they support entrepreneurs?",
+        "Could you list the best 5 startup incubators worldwide and explain their assistance for startups?",
+        "I'm interested in the top 5 startup incubators on a global scale. Can you tell me about them and their impact on startups?",
+        "What are the leading international startup incubators, and how do they contribute to startup success?",
+        "Which are the top 5 startup incubators across the globe, and what do they offer to help startups?",
+        "Can you provide information on the best 5 startup incubators worldwide and their roles in assisting early-stage businesses?",
+        "Who are the top 5 global players in startup incubation, and how can they benefit entrepreneurs?",
+        "I'd like to learn about the top 5 startup incubators globally and how they empower startups. Could you provide details?",
+        "What are the 5 most renowned startup incubators worldwide, and what makes them valuable for startups?",
+        "Tell me about the 5 best startup incubators on a global scale and their contributions to the success of startups."
+      ],
+      "responses": [
+        "Startupbootcamp./nEntrepreneur First./nBethnal Green Ventures./nTechstars London.\nFonders Factory"
+      ]
+    },
+    {
+      "tag": "What is a business accelerator programme?",
+      "patterns": [
+        "Could you explain what a business accelerator program is?",
+        "What exactly does a business accelerator program entail?",
+        "I'm not familiar with business accelerator programs. Can you provide a definition?",
+        "Can you give me an overview of what a business accelerator program involves?",
+        "What is the purpose and function of a business accelerator program?",
+        "I've heard about business accelerator programs but don't understand them. Could you clarify?",
+        "How would you define a business accelerator program?",
+        "Could you break down the concept of a business accelerator program for me?",
+        "In simple terms, what does a business accelerator program do?",
+        "I'd like to learn more about business accelerator programs. What's the basic idea behind them?"
+      ],
+      "responses": [
+        "Startupbootcamp./nEntrepreneur First./nBethnal Green Ventures./nTechstars London.\nFonders Factory"
+      ]
+    },
+      {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    }
+  ]
+}
